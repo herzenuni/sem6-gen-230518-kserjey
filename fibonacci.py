@@ -1,7 +1,5 @@
 import itertools
 
-LIMIT = 10
-
 def fib():
   a = 0
   b = 1
